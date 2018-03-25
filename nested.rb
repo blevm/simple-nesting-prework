@@ -17,10 +17,8 @@ def hopper
      }
 
 hopper = programmer_hash[:grace_hopper]
-alan_kay_is_known_for = programmer_hash[:alan_kay][:known_for]
-dennis_ritchies_language = programmer_hash[:dennis_ritchie][:languages]
 
-programmer_hash[:yukihiro_matsumoto] = {}
+hopper
 
 end
 
